@@ -1,0 +1,24 @@
+{
+    "port": "COM11",
+    "hostname" : "IMVIOT",
+    "ipaddress": "192.168.1.2",
+    "netmask": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "users": [{
+            "username": "smallkid",
+            "password": "t0mcat"
+        },
+        {
+            "username": "ftpuser",
+            "password": "ftpuser!"
+        },
+        {
+            "username": "ftpuser1",
+            "password": "ftpuser1!"
+        },
+		{
+            "username": "ftpuser2",
+            "password": "ftpuser2!"
+        }
+    ]
+}
